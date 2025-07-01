@@ -1,6 +1,6 @@
 # SecureMe – Building the Foundations of Cyber Defense
 
-## 👨‍💻 Author: Your Name  
+## 👨‍💻 Author: ROHIT KUMAR
 ## 🎯 Objective
 Apply core cybersecurity principles—**CIA Triad** and **IAAAA Model**—using practical Linux-based tools and configurations.
 
