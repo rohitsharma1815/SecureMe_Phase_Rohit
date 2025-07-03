@@ -59,7 +59,7 @@ eth0: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
         TX packets 46646  bytes 7088921 (6.7 MiB)
         TX errors 0  dropped 74 overruns 0  carrier 0  collisions 0
 
-lo: flags=73<UP,LOOPBACK,RUNNING>  mtu 65536
+lo: flags=73<UP,LOOPBACK,RUNNING>  mtlsu 65536
         inet 127.0.0.1  netmask 255.0.0.0
         inet6 ::1  prefixlen 128  scopeid 0x10<host>
         loop  txqueuelen 1000  (Local Loopback)
