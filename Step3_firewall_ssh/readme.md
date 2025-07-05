@@ -39,4 +39,4 @@ Interns will:
 - Gain experience with **secure remote administration** using SSH
 - Learn basic and intermediate **Linux command-line usage**
 - Practice **real-world network and user access controls**
-
+# ...............
