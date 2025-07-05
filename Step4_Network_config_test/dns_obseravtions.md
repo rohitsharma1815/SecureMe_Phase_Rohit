@@ -1,6 +1,7 @@
 # 🌐 DNS Test Observations
 
-This document captures DNS resolution tests performed between a Kali Linux guest and a Windows host system, focusing on successful and failed lookups to analyze DNS behavior.
+This document captures DNS resolution tests performed between a Kali Linux guest and a Windows host system, focusing on successful and failed lookups to analyze DNS behavior
+
 
 ---
 
